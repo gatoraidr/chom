@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="CHOM" package="com.sharpcdf.CHOM" version="1.0.0" company="sharpcdf" />
+	<app main="Main" path="Export" file="CHOM" />
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+
+	<assets path="Assets" rename="assets" />
+	<assets path="Assets/Audio" rename="audio" />
+	<assets path="Assets/Fonts" rename="fonts" />
+	<assets path="Assets/Images" rename="images" />
+	
+</project>
